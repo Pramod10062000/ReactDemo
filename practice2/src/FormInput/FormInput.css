@@ -1,0 +1,22 @@
+
+
+.FormInput{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+input{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
+button{
+    display: block  ;
+    text-align: center;
+    margin: auto;
+    margin-top:20px ;
+}
