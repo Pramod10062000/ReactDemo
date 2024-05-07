@@ -1,0 +1,14 @@
+.FormInput{
+
+    width: 400px;
+    height: 220px;
+    border: 2px solid red;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+input{
+    display: block;
+    margin: auto;
+}
