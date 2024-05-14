@@ -1,0 +1,689 @@
+
+{
+    "Andhra Pradesh": [
+        {
+            "title": "ANANTHAPUR",
+            "link": "\/branches\/andhra-pradesh\/ananthapur"
+        },
+        {
+            "title": "Karnool",
+            "link": "\/branches\/andhra-pradesh\/karnool"
+        },
+        {
+            "title": "Tirupati",
+            "link": "\/branches\/andhra-pradesh\/tirupati"
+        },
+        {
+            "title": "Medak",
+            "link": "\/branches\/andhra-pradesh\/medak"
+        },
+        {
+            "title": "Chittoor",
+            "link": "\/branches\/andhra-pradesh\/chittoor"
+        },
+        {
+            "title": "Nellore",
+            "link": "\/branches\/andhra-pradesh\/nellore"
+        },
+        {
+            "title": "Rajahmundhry",
+            "link": "\/branches\/andhra-pradesh\/rajahmundhry"
+        },
+        {
+            "title": "Vijayawada",
+            "link": "\/branches\/andhra-pradesh\/vijayawada"
+        },
+        {
+            "title": "Vishakhapatnam - Maharani Peta",
+            "link": "\/branches\/andhra-pradesh\/vishakhapatnam\/maharani-peta"
+        },
+        {
+            "title": "Vishakhapatnam - Dwarka Nagar",
+            "link": "\/branches\/andhra-pradesh\/vishakhapatnam\/dwarka-nagar"
+        },
+        {
+            "title": "Warangal",
+            "link": "\/branches\/andhra-pradesh\/warangal"
+        },
+        {
+            "title": "Hyderabad - Banjara Hills",
+            "link": "\/branches\/andhra-pradesh\/hyderabad\/banjara-hills"
+        },
+        {
+            "title": "Kakinada",
+            "link": "\/branches\/andhra-pradesh\/kakinada"
+        },
+        {
+            "title": "Vishakhapatnam",
+            "link": "\/branches\/andhra-pradesh\/vishakhapatnam"
+        },
+        {
+            "title": "Hyderabad",
+            "link": "\/branches\/andhra-pradesh\/hyderabad"
+        }
+    ],
+    "Assam": [
+        {
+            "title": "Guwahati",
+            "link": "\/branches\/assam\/guwahati"
+        }
+    ],
+    "Bihar": [
+        {
+            "title": "Patna",
+            "link": "\/branches\/bihar\/patna"
+        }
+    ],
+    "Chhattisgarh": [
+        {
+            "title": "Bhilai",
+            "link": "\/branches\/chhattisgarh\/bhilai"
+        },
+        {
+            "title": "Bilaspur",
+            "link": "\/branches\/chhattisgarh\/bilaspur"
+        },
+        {
+            "title": "Raipur",
+            "link": "\/branches\/chhattisgarh\/raipur"
+        }
+    ],
+    "Delhi NCR": [
+        {
+            "title": "Delhi - Rajendra Palace",
+            "link": "\/branches\/delhi-ncr\/delhi\/rajendra-palace"
+        },
+        {
+            "title": "Faridabad",
+            "link": "\/branches\/delhi-ncr\/faridabad"
+        },
+        {
+            "title": "Noida",
+            "link": "\/branches\/delhi-ncr\/noida"
+        },
+        {
+            "title": "Gurgaon",
+            "link": "\/branches\/delhi-ncr\/gurgaon"
+        },
+        {
+            "title": "Delhi - Moti Nagar",
+            "link": "\/branches\/delhi-ncr\/delhi\/moti-nagar"
+        },
+        {
+            "title": "Delhi",
+            "link": "\/branches\/delhi-ncr\/delhi"
+        }
+    ],
+    "Gujarat": [
+        {
+            "title": "Ahmedabad - Ellisbridge",
+            "link": "\/branches\/gujarat\/ahmedabad\/ellisbridge"
+        },
+        {
+            "title": "Nadiad",
+            "link": "\/branches\/gujarat\/nadiad"
+        },
+        {
+            "title": "Palanpur",
+            "link": "\/branches\/gujarat\/palanpur"
+        },
+        {
+            "title": "Patan",
+            "link": "\/branches\/gujarat\/patan"
+        },
+        {
+            "title": "Porbandar",
+            "link": "\/branches\/gujarat\/porbandar"
+        },
+        {
+            "title": "Rajkot - Ardella",
+            "link": "\/branches\/gujarat\/rajkot\/ardella"
+        },
+        {
+            "title": "Rajkot - Race Course",
+            "link": "\/branches\/gujarat\/rajkot\/race-course"
+        },
+        {
+            "title": "Surat - Empire State",
+            "link": "\/branches\/gujarat\/surat\/empire-state"
+        },
+        {
+            "title": "Surat - Varachha",
+            "link": "\/branches\/gujarat\/surat\/varachha"
+        },
+        {
+            "title": "Vapi",
+            "link": "\/branches\/gujarat\/vapi"
+        },
+        {
+            "title": "Ahmedabad - CG Road - RO",
+            "link": "\/branches\/gujarat\/ahmedabad\/cg-road-ro"
+        },
+        {
+            "title": "Mehsana",
+            "link": "\/branches\/gujarat\/mehsana"
+        },
+        {
+            "title": "Deesa",
+            "link": "\/branches\/gujarat\/deesa"
+        },
+        {
+            "title": "Gandhidham",
+            "link": "\/branches\/gujarat\/gandhidham"
+        },
+        {
+            "title": "Gandhinagar",
+            "link": "\/branches\/gujarat\/gandhinagar"
+        },
+        {
+            "title": "Gondal",
+            "link": "\/branches\/gujarat\/gondal"
+        },
+        {
+            "title": "Himatnagar",
+            "link": "\/branches\/gujarat\/himatnagar"
+        },
+        {
+            "title": "Jamnagar",
+            "link": "\/branches\/gujarat\/jamnagar"
+        },
+        {
+            "title": "Junagadh",
+            "link": "\/branches\/gujarat\/junagadh"
+        },
+        {
+            "title": "Ahmedabad - CG Road",
+            "link": "\/branches\/gujarat\/ahmedabad\/cg-road"
+        },
+        {
+            "title": "Ahmedabad - Chandan",
+            "link": "\/branches\/gujarat\/ahmedabad\/chandan"
+        },
+        {
+            "title": "Ahmedabad - Gurukul",
+            "link": "\/branches\/gujarat\/ahmedabad\/gurukul"
+        },
+        {
+            "title": "Ahmedabad - Paldi",
+            "link": "\/branches\/gujarat\/ahmedabad\/paldi"
+        },
+        {
+            "title": "Ahmedabad - Ramdevnagar",
+            "link": "\/branches\/gujarat\/ahmedabad\/ramdevnagar"
+        },
+        {
+            "title": "Ahmedabad - Shahibaug",
+            "link": "\/branches\/gujarat\/ahmedabad\/shahibaug"
+        },
+        {
+            "title": "Amreli",
+            "link": "\/branches\/gujarat\/amreli"
+        },
+        {
+            "title": "Anand",
+            "link": "\/branches\/gujarat\/anand"
+        },
+        {
+            "title": "Baroda - Gotri",
+            "link": "\/branches\/gujarat\/baroda\/gotri"
+        },
+        {
+            "title": "Baroda - Kareli Baug",
+            "link": "\/branches\/gujarat\/baroda\/kareli-baug"
+        },
+        {
+            "title": "Baroda - Sayajiganj",
+            "link": "\/branches\/gujarat\/baroda\/sayajiganj"
+        },
+        {
+            "title": "Bharuch",
+            "link": "\/branches\/gujarat\/bharuch"
+        },
+        {
+            "title": "Bhavnagar",
+            "link": "\/branches\/gujarat\/bhavnagar"
+        },
+        {
+            "title": "Ahmedabad",
+            "link": "\/branches\/gujarat\/ahmedabad"
+        },
+        {
+            "title": "Baroda",
+            "link": "\/branches\/gujarat\/baroda"
+        },
+        {
+            "title": "Surat",
+            "link": "\/branches\/gujarat\/surat"
+        },
+        {
+            "title": "Rajkot",
+            "link": "\/branches\/gujarat\/rajkot"
+        }
+    ],
+    "Haryana": [
+        {
+            "title": "Hisar",
+            "link": "\/branches\/haryana\/hisar"
+        },
+        {
+            "title": "Rohtak",
+            "link": "\/branches\/haryana\/rohtak"
+        },
+        {
+            "title": "Ambala",
+            "link": "\/branches\/haryana\/ambala"
+        }
+    ],
+    "Jharkhand": [
+        {
+            "title": "Ranchi",
+            "link": "\/branches\/jharkhand\/ranchi"
+        },
+        {
+            "title": "Dhanbad",
+            "link": "\/branches\/jharkhand\/dhanbad"
+        },
+        {
+            "title": "Jamshedpur",
+            "link": "\/branches\/jharkhand\/jamshedpur"
+        }
+    ],
+    "Karnataka": [
+        {
+            "title": "Belgaum",
+            "link": "\/branches\/karnataka\/belgaum"
+        },
+        {
+            "title": "Mangalore",
+            "link": "\/branches\/karnataka\/mangalore"
+        },
+        {
+            "title": "Udupi",
+            "link": "\/branches\/karnataka\/udupi"
+        },
+        {
+            "title": "Mysore",
+            "link": "\/branches\/karnataka\/mysore"
+        },
+        {
+            "title": "Hubli",
+            "link": "\/branches\/karnataka\/hubli"
+        },
+        {
+            "title": "Bangalore - Cunnigham Road",
+            "link": "\/branches\/karnataka\/bangalore\/cunnigham-road"
+        },
+        {
+            "title": "Bangalore",
+            "link": "\/branches\/karnataka\/bangalore"
+        }
+    ],
+    "Kerala": [
+        {
+            "title": "Kozhikode",
+            "link": "\/branches\/kerala\/kozhikode"
+        },
+        {
+            "title": "Trivandrum",
+            "link": "\/branches\/kerala\/trivandrum"
+        },
+        {
+            "title": "Thrissur",
+            "link": "\/branches\/kerala\/thrissur"
+        },
+        {
+            "title": "Kottayam",
+            "link": "\/branches\/kerala\/kottayam"
+        },
+        {
+            "title": "Cochin",
+            "link": "\/branches\/kerala\/cochin"
+        }
+    ],
+    "Madhya Pradesh": [
+        {
+            "title": "Jabalpur",
+            "link": "\/branches\/madhya-pradesh\/jabalpur"
+        },
+        {
+            "title": "Gwalior",
+            "link": "\/branches\/madhya-pradesh\/gwalior"
+        },
+        {
+            "title": "Rewa",
+            "link": "\/branches\/madhya-pradesh\/rewa"
+        },
+        {
+            "title": "Chhattarpur",
+            "link": "\/branches\/madhya-pradesh\/chhattarpur"
+        },
+        {
+            "title": "Indore - Race Course Road",
+            "link": "\/branches\/madhya-pradesh\/indore\/race-course-road"
+        },
+        {
+            "title": "Bhopal",
+            "link": "\/branches\/madhya-pradesh\/bhopal"
+        },
+        {
+            "title": "Indore",
+            "link": "\/branches\/madhya-pradesh\/indore"
+        }
+    ],
+    "Maharashtra": [
+        {
+            "title": "Satara",
+            "link": "\/branches\/maharashtra\/satara"
+        },
+        {
+            "title": "Sangli",
+            "link": "\/branches\/maharashtra\/sangli"
+        },
+        {
+            "title": "Mumbai - Andheri East - RO",
+            "link": "\/branches\/maharashtra\/mumbai\/andheri-east-ro"
+        },
+        {
+            "title": "Mumbai - Santacruz",
+            "link": "\/branches\/maharashtra\/mumbai\/santacruz"
+        },
+        {
+            "title": "Mumbai - Andheri East - CO",
+            "link": "\/branches\/maharashtra\/mumbai\/andheri-east-co"
+        },
+        {
+            "title": "Nagpur - Civil Lines",
+            "link": "\/branches\/maharashtra\/nagpur\/civil-lines"
+        },
+        {
+            "title": "Nashik - Agra Road",
+            "link": "\/branches\/maharashtra\/nashik\/agra-road"
+        },
+        {
+            "title": "Pune-Swargate",
+            "link": "\/branches\/maharashtra\/pune-swargate"
+        },
+        {
+            "title": "Mumbai - Andheri West",
+            "link": "\/branches\/maharashtra\/mumbai\/andheri-west"
+        },
+        {
+            "title": "Mumbai - Bandra",
+            "link": "\/branches\/maharashtra\/mumbai\/bandra"
+        },
+        {
+            "title": "Mumbai - Chembur",
+            "link": "\/branches\/maharashtra\/mumbai\/chembur"
+        },
+        {
+            "title": "Mumbai - Kalbadevi",
+            "link": "\/branches\/maharashtra\/mumbai\/kalbadevi"
+        },
+        {
+            "title": "Mumbai - Andheri East",
+            "link": "\/branches\/maharashtra\/mumbai\/andheri-east"
+        },
+        {
+            "title": "Mumbai - Borivali",
+            "link": "\/branches\/maharashtra\/mumbai\/borivali"
+        },
+        {
+            "title": "Mumbai - Churchgate",
+            "link": "\/branches\/maharashtra\/mumbai\/churchgate"
+        },
+        {
+            "title": "Mumbai - Fort",
+            "link": "\/branches\/maharashtra\/mumbai\/fort"
+        },
+        {
+            "title": "Mumbai - Ghatkopar",
+            "link": "\/branches\/maharashtra\/mumbai\/ghatkopar"
+        },
+        {
+            "title": "Mumbai - Goregaon",
+            "link": "\/branches\/maharashtra\/mumbai\/goregaon"
+        },
+        {
+            "title": "Mumbai - Lokhandwala",
+            "link": "\/branches\/maharashtra\/mumbai\/lokhandwala"
+        },
+        {
+            "title": "Mumbai - Matunga",
+            "link": "\/branches\/maharashtra\/mumbai\/matunga"
+        },
+        {
+            "title": "Mumbai - Mulund",
+            "link": "\/branches\/maharashtra\/mumbai\/mulund"
+        },
+        {
+            "title": "Mumbai - Powai",
+            "link": "\/branches\/maharashtra\/mumbai\/powai"
+        },
+        {
+            "title": "Mumbai - Thane",
+            "link": "\/branches\/maharashtra\/mumbai\/thane"
+        },
+        {
+            "title": "Mumbai - Vashi",
+            "link": "\/branches\/maharashtra\/mumbai\/vashi"
+        },
+        {
+            "title": "Mumbai - Vile Parle",
+            "link": "\/branches\/maharashtra\/mumbai\/vile-parle"
+        },
+        {
+            "title": "Jalgaon",
+            "link": "\/branches\/maharashtra\/jalgaon"
+        },
+        {
+            "title": "Kolhapur",
+            "link": "\/branches\/maharashtra\/kolhapur"
+        },
+        {
+            "title": "Ahmednagar",
+            "link": "\/branches\/maharashtra\/ahmednagar"
+        },
+        {
+            "title": "Amravati",
+            "link": "\/branches\/maharashtra\/amravati"
+        },
+        {
+            "title": "Aurangabad",
+            "link": "\/branches\/maharashtra\/aurangabad"
+        },
+        {
+            "title": "Nashik",
+            "link": "\/branches\/maharashtra\/nashik"
+        },
+        {
+            "title": "Nagpur - Wardha Road",
+            "link": "\/branches\/maharashtra\/nagpur\/wardha-road"
+        },
+        {
+            "title": "Nagpur",
+            "link": "\/branches\/maharashtra\/nagpur"
+        },
+        {
+            "title": "Mumbai",
+            "link": "\/branches\/maharashtra\/mumbai"
+        }
+    ],
+    "Orissa": [
+        {
+            "title": "Cuttack",
+            "link": "\/branches\/orissa\/cuttack"
+        },
+        {
+            "title": "Bhubaneswar",
+            "link": "\/branches\/orissa\/bhubaneswar"
+        }
+    ],
+    "Punjab": [
+        {
+            "title": "Patiala",
+            "link": "\/branches\/punjab\/patiala"
+        },
+        {
+            "title": "Ludhiana",
+            "link": "\/branches\/punjab\/ludhiana"
+        },
+        {
+            "title": "Chandigarh",
+            "link": "\/branches\/punjab\/chandigarh"
+        },
+        {
+            "title": "Jalandhar",
+            "link": "\/branches\/punjab\/jalandhar"
+        },
+        {
+            "title": "Amritsar",
+            "link": "\/branches\/punjab\/amritsar"
+        }
+    ],
+    "Rajasthan": [
+        {
+            "title": "Bhilwara",
+            "link": "\/branches\/rajasthan\/bhilwara"
+        },
+        {
+            "title": "Sikar",
+            "link": "\/branches\/rajasthan\/sikar"
+        },
+        {
+            "title": "Barmer",
+            "link": "\/branches\/rajasthan\/barmer"
+        },
+        {
+            "title": "Beawar",
+            "link": "\/branches\/rajasthan\/beawar"
+        },
+        {
+            "title": "Udaipur",
+            "link": "\/branches\/rajasthan\/udaipur"
+        },
+        {
+            "title": "Kota",
+            "link": "\/branches\/rajasthan\/kota"
+        },
+        {
+            "title": "Jaipur",
+            "link": "\/branches\/rajasthan\/jaipur"
+        },
+        {
+            "title": "Jodhpur",
+            "link": "\/branches\/rajasthan\/jodhpur"
+        },
+        {
+            "title": "Ajmer",
+            "link": "\/branches\/rajasthan\/ajmer"
+        },
+        {
+            "title": "Bikaner",
+            "link": "\/branches\/rajasthan\/bikaner"
+        }
+    ],
+    "Tamil Nadu": [
+        {
+            "title": "Tirunelveli",
+            "link": "\/branches\/tamil-nadu\/tirunelveli"
+        },
+        {
+            "title": "Salem",
+            "link": "\/branches\/tamil-nadu\/salem"
+        },
+        {
+            "title": "Trichy",
+            "link": "\/branches\/tamil-nadu\/trichy"
+        },
+        {
+            "title": "Erode",
+            "link": "\/branches\/tamil-nadu\/erode"
+        },
+        {
+            "title": "Madurai",
+            "link": "\/branches\/tamil-nadu\/madurai"
+        },
+        {
+            "title": "Chennai",
+            "link": "\/branches\/tamil-nadu\/chennai"
+        },
+        {
+            "title": "Coimbatore",
+            "link": "\/branches\/tamil-nadu\/coimbatore"
+        }
+    ],
+    "Uttar Pradesh": [
+        {
+            "title": "Ghaziabad",
+            "link": "\/branches\/uttar-pradesh\/ghaziabad"
+        },
+        {
+            "title": "Meerut",
+            "link": "\/branches\/uttar-pradesh\/meerut"
+        },
+        {
+            "title": "Sonbhadra",
+            "link": "\/branches\/uttar-pradesh\/sonbhadra"
+        },
+        {
+            "title": "Varanasi",
+            "link": "\/branches\/uttar-pradesh\/varanasi"
+        },
+        {
+            "title": "Lucknow - Lalbagh",
+            "link": "\/branches\/uttar-pradesh\/lucknow\/lalbagh"
+        },
+        {
+            "title": "Lucknow - Gomti Nagar",
+            "link": "\/branches\/uttar-pradesh\/lucknow\/gomti-nagar"
+        },
+        {
+            "title": "Kanpur",
+            "link": "\/branches\/uttar-pradesh\/kanpur"
+        },
+        {
+            "title": "Agra",
+            "link": "\/branches\/uttar-pradesh\/agra"
+        },
+        {
+            "title": "Allahabad",
+            "link": "\/branches\/uttar-pradesh\/allahabad"
+        },
+        {
+            "title": "Bareilly",
+            "link": "\/branches\/uttar-pradesh\/bareilly"
+        },
+        {
+            "title": "Lucknow",
+            "link": "\/branches\/uttar-pradesh\/lucknow"
+        }
+    ],
+    "Uttarakhand": [
+        {
+            "title": "Haldwani",
+            "link": "\/branches\/uttarakhand\/haldwani"
+        },
+        {
+            "title": "Dehradun",
+            "link": "\/branches\/uttarakhand\/dehradun"
+        }
+    ],
+    "West Bengal": [
+        {
+            "title": "Durgapur",
+            "link": "\/branches\/west-bengal\/durgapur"
+        },
+        {
+            "title": "Kolkata - Lord Sinha Road",
+            "link": "\/branches\/west-bengal\/kolkata\/lord-sinha-road"
+        },
+        {
+            "title": "Asansol",
+            "link": "\/branches\/west-bengal\/asansol"
+        },
+        {
+            "title": "Kolkata",
+            "link": "\/branches\/west-bengal\/kolkata"
+        }
+    ]
+}

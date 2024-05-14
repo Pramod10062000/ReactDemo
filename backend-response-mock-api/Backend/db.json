@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "3",
+      "city": "Maharashtra",
+      "state": "Solapur"
+    },
+    {
+      "id": "4",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "5",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    {
+      "id": "0384",
+      "city": "Maharashtra",
+      "state": "PuneCity"
+    },
+    {
+      "id": "afec",
+      "city": "KARTAT",
+      "state": "Bang"
+    },
+    {
+      "id": "9607",
+      "city": "Solapur",
+      "state": "Maharashtra"
+    }
+  ]
+}
