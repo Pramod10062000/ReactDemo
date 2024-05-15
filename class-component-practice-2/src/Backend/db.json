@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product": "T-shirt",
+      "amount": 20
+    },
+    {
+      "id": "2",
+      "product": "Jeans",
+      "amount": 15
+    },
+    {
+      "id": "3",
+      "product": "Sneakers",
+      "amount": 30
+    },
+    {
+      "id": "4",
+      "product": "Backpack",
+      "amount": 25
+    },
+    {
+      "id": "5",
+      "product": "Laptop",
+      "amount": "1222"
+    },
+    {
+      "id": "6",
+      "product": "Mobile",
+      "amount": "123556"
+    },
+    {
+      "id": "7",
+      "product": "Mac",
+      "amount": "75,999"
+    },
+    {
+      "id": "8",
+      "product": "CAR",
+      "amount": "899999"
+    },
+    {
+      "id": "7b10",
+      "product": "Shares",
+      "amount": "5,00000"
+    },
+    {
+      "id": "e47c",
+      "product": "",
+      "amount": ""
+    },
+    {
+      "id": "6cb2",
+      "product": "",
+      "amount": ""
+    },
+    {
+      "id": "e09a",
+      "product": "",
+      "amount": ""
+    },
+    {
+      "id": "0aa1",
+      "product": "",
+      "amount": ""
+    },
+    {
+      "id": "6501",
+      "product": "",
+      "amount": ""
+    }
+  ]
+}
